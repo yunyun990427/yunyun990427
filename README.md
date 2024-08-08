@@ -29,14 +29,7 @@
 
 ---
 
-<div align="center">    <h3> 🌟 즐겨찾는 리포지토리 </h3>
-    <a href="https://github.com/yourusername/repository1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1&theme=radical" alt="Repository 1" />
-    </a>
-    <a href="https://github.com/yourusername/repository2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2&theme=radical" alt="Repository 2" />
-    </a>
-</div>
+
 
 
 

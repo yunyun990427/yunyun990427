@@ -59,11 +59,5 @@
 - **애플리케이션 개발**: 공공 행정, 헬스케어, 재난 안전, 산업 고용 등 다양한 분야에 솔루션 제공
 - **사용자 인터페이스**: 직관적이고 사용하기 쉬운 UI/UX 디자인
 
-## 설치 방법
-다음 단계를 따라 로컬에 프로젝트를 설정하세요:
-```bash
-# 리포지토리 클론
-git clone https://github.com/yourusername/repository.git
+[동네26.pdf](https://github.com/user-attachments/files/16540120/26.pdf)
 
-# 프로젝트 디렉토리로 이동
-cd repository

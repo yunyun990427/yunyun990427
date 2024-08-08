@@ -1,9 +1,6 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=hi%20there!%20I'm%20yunmin&animation=&fontColor=ffffff&fontSize=50" />
+<div align= "center">    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=hi%20there!%20I'm%20yunmin&animation=&fontColor=ffffff&fontSize=50" />
 </div>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<div style="text-align: left;">    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> <br> 
     <div style="margin: ; text-align: left;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -15,9 +12,7 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     </div>
 </div>
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<div style="text-align: left;">    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락하기 </h2> <br> 
     <div style="text-align: left;"> 
         <a href=mailto:yi3976997@gmail.com>
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yi3976997@gmail.com"> 
@@ -27,16 +22,14 @@
 
 ---
 
-<div align="center">
-    <h3> 📊 GitHub Stats </h3>
+<div align="center">    <h3> 📊 GitHub 통계 </h3>
     <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-<div align="center">
-    <h3> 🌟 Starred Repositories </h3>
+<div align="center">    <h3> 🌟 즐겨찾는 리포지토리 </h3>
     <a href="https://github.com/yourusername/repository1">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository1&theme=radical" alt="Repository 1" />
     </a>
@@ -49,27 +42,28 @@
 
 # Neighborhood 26
 
-## Index
-- [Reason for Topic Selection](#reason-for-topic-selection)
-- [Function](#function)
-- [Contribution](#contribution)
-- [Contact](#contact)
+## 목차- [주제 선정 이유](#주제-선정-이유)
+- [기능](#기능)
+- [기여 방법](#기여-방법)
+- [연락처](#연락처)
 
-## Reason for Topic Selection
-1. Gather city and autonomous district information and make it easily accessible to residents.
-2. Help residents get to know the area better and feel good about their neighborhood.
-3. Make support policies, events, and job information in the neighborhood easily accessible to residents.
-4. Support smooth information sharing among local residents.
+## 주제 선정 이유1. 도시와 자치구 정보를 수집하여 주민들이 쉽게 접근할 수 있도록 합니다.
+2. 지역을 더 잘 알게 되어 주민들이 자신의 동네에 대해 긍정적인 감정을 갖게 합니다.
+3. 동네의 지원 정책, 행사 및 일자리 정보를 쉽게 접근할 수 있도록 합니다.
+4. 지역 주민들 간의 원활한 정보 공유를 지원합니다.
 
-## Function
-The main features of this project are:
-- **Data Management**: Data definition, manipulation, and control using SQL
-- **Use of Open Data**: Data collection and analysis through public data portal
-- **Application Development**: Providing solutions for various fields such as public administration, healthcare, disaster safety, industrial employment, etc.
-- **User Interface**: Intuitive and easy-to-use UI/UX design
+## 기능
+이 프로젝트의 주요 기능은 다음과 같습니다:
+- **데이터 관리**: SQL을 사용한 데이터 정의, 조작 및 제어
+- **공공 데이터 활용**: 공공 데이터 포털을 통한 데이터 수집 및 분석
+- **애플리케이션 개발**: 공공 행정, 헬스케어, 재난 안전, 산업 고용 등 다양한 분야에 솔루션 제공
+- **사용자 인터페이스**: 직관적이고 사용하기 쉬운 UI/UX 디자인
 
-## Installation
-Follow these steps to set up the project locally:
+## 설치 방법
+다음 단계를 따라 로컬에 프로젝트를 설정하세요:
 ```bash
-# Clone the repository
+# 리포지토리 클론
 git clone https://github.com/yourusername/repository.git
+
+# 프로젝트 디렉토리로 이동
+cd repository
